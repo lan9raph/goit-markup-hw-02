@@ -195,6 +195,7 @@ body {
 .examples-link {
   text-decoration: none;
 }
+
 .examples-title {
   font-weight: 700;
   font-size: 18px;
@@ -207,4 +208,5 @@ body {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
+  color: var(--primary-text-color);
 }
